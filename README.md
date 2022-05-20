@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rolandbaer
-- 👀 I’m interested in C/C++, C#, Python, node.js, PHP, HTML+CSS; from Arduino over Raspi up to Desktop and Server
+- 👀 I’m interested in C/C++, C#, Python, node.js, PHP, HTML+CSS; from Arduino over Raspberry Pi and Smartphone up to Desktop and Server and the communication between them
 - 🌱 I try to learn every day at least something new
 - 📫 My Social Profiles:
     -  <https://twitter.com/baerroland>
