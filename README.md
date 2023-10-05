@@ -3,6 +3,7 @@
 - 🌱 I try to learn every day at least something new
 - 📫 My Social Profiles:
     -  🐘 I’m on Mastodon <a rel="me" href="https://octodon.social/@rolandbaer">https://octodon.social/@rolandbaer</a>
+    -  🟦 I’m on Bluesky <https://bsky.app/profile/rolandbaer.bsky.social>
     -  🐦 I’m on Twitter <https://twitter.com/baerroland>
     -  ⁉️ Asking and Answering on StackOverflow <https://stackoverflow.com/users/17646/roland-b%c3%a4r>
     -  📘 I’m on Facebook <https://de-de.facebook.com/roland.baer>
